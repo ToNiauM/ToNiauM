@@ -9,23 +9,23 @@
 
 ## 🤖 Nota de Transparência
 
-Este README foi escrito com o apoio de uma Inteligência Artificial, a partir de ideias, experiências reais e direcionamento humano. Não vou ficar mentindo. 
+Este README foi escrito com o apoio de uma Inteligência Artificial, mais especificanente a partir de ideias, experiências reais e direcionamento humano. Não vou ficar mentindo. 
 
-Não sou um “engenheiro de software tradicional”.  
+Não sou um “dev".  
 Sou um **entusiasta de tecnologia** que "aprendeu" a programar movido por problemas reais, curiosidade e vontade de construir soluções práticas.
 
-Uso IA como ferramenta de aceleração intelectual — assim como uso Python para automatizar processos e planilhas para organizar dados.  
+Uso IA como ferramenta de aceleração intelectual — assim como uso Python para automatizar processos e planilhas para organizar dados. Tenho muito a aprender. 
 A autoria conceitual é minha. A lapidação textual é assistida.
 
-Acredito que o futuro pertence a quem **sabe pensar sistemas, formular problemas e usar ferramentas inteligentes para resolvê-los**.
+Acredito que o futuro pertence a Deus e a quem **sabe pensar sistemas, formular problemas e usar ferramentas inteligentes para resolvê-los**.
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou de **Brasília/DF** e atuo há mais de **7 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
+Sou de BRASILIENSE da gema. Fiz contabilidade por 8 anos. Demorei e demais pra finalizar. Hoje atuo há mais de **8 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
 
-Minha entrada na programação não veio por hobby — veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
+Minha entrada na programação não veio por hobby — Apesar de eu ter sido empresário da área, onde atuei em suporte, redes. Conhecimento a adquirido nessa ocasião. veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
 
 - Regras de negócio da administração pública  
 - Automação de processos  
