@@ -1,17 +1,31 @@
 # Olá, eu sou o Toninho Travis 👋
 
 <div align="center">
-  <em>Contador • Supervisor de Patrimônio • Desenvolvedor Python</em><br/>
-  <strong>Transformo regras administrativas complexas em sistemas simples, úteis e escaláveis.</strong>
+  <em>Contador • Especialista em Desenvolvimento de Sistemas com Python • Especialista em Terceirização de Mão de Obra</em><br/>
+  <strong>Entusiasta de Inteligência Artificial e tecnologia.</strong>
 </div>
+
+---
+
+## 🤖 Nota de Transparência
+
+Este README foi escrito com o apoio de uma Inteligência Artificial, a partir de ideias, experiências reais e direcionamento humano. Não vou ficar mentindo. 
+
+Não sou um “engenheiro de software tradicional”.  
+Sou um **entusiasta de tecnologia** que aprendeu a programar movido por problemas reais, curiosidade e vontade de construir soluções práticas.
+
+Uso IA como ferramenta de aceleração intelectual — assim como uso Python para automatizar processos e planilhas para organizar dados.  
+A autoria conceitual é minha. A lapidação textual é assistida.
+
+Acredito que o futuro pertence a quem **sabe pensar sistemas, formular problemas e usar ferramentas inteligentes para resolvê-los**.
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou de **Brasília/DF** e atuo há mais de **7 anos** com contabilidade pública e **gestão patrimonial**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos complexos.
+Sou de **Brasília/DF** e atuo há mais de **7 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
 
-Minha entrada na programação não veio por hobby — veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, uso **Python** e **Flask** para criar sistemas completos (SaaS) que unem:
+Minha entrada na programação não veio por hobby — veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
 
 - Regras de negócio da administração pública  
 - Automação de processos  
@@ -109,10 +123,13 @@ Se você gosta de conversar sobre:
 - SaaS sob medida  
 - Automação administrativa  
 - Gestão patrimonial  
+- Terceirização de mão de obra  
 - Data Science aplicada  
 - Bitcoin e soberania digital  
 
 Fale comigo:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561982098525)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toniaum@gmail.com)
 
