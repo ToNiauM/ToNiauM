@@ -12,7 +12,7 @@
 Este README foi escrito com o apoio de uma Inteligência Artificial, a partir de ideias, experiências reais e direcionamento humano. Não vou ficar mentindo. 
 
 Não sou um “engenheiro de software tradicional”.  
-Sou um **entusiasta de tecnologia** que aprendeu a programar movido por problemas reais, curiosidade e vontade de construir soluções práticas.
+Sou um **entusiasta de tecnologia** que "aprendeu" a programar movido por problemas reais, curiosidade e vontade de construir soluções práticas.
 
 Uso IA como ferramenta de aceleração intelectual — assim como uso Python para automatizar processos e planilhas para organizar dados.  
 A autoria conceitual é minha. A lapidação textual é assistida.
