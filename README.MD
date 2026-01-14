@@ -135,4 +135,4 @@ Fale comigo:
 
 ---
 
-> *“Código é apenas a linguagem. O verdadeiro trabalho é organizar o mundo.”*
+> *“Programação é resolver problemas do mundo real.”*
