@@ -23,7 +23,7 @@ Acredito que o futuro pertence a Deus e a quem **sabe pensar sistemas, formular 
 
 ## 👨‍💻 Sobre Mim
 
-Sou de BRASILIENSE da gema. Fiz contabilidade por 8 anos. Demorei e demais pra finalizar. Hoje atuo há mais de **8 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
+Sou BRASILIENSE da gema. Fiz contabilidade por 8 anos. Demorei e demais pra finalizar. Hoje atuo há mais de **8 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
 
 Minha entrada na programação não veio por hobby — Apesar de eu ter sido empresário da área, onde atuei em suporte, redes. Conhecimento a adquirido nessa ocasião. veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
 
