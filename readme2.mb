@@ -1,0 +1,131 @@
+## 🗺️ Roadmap Completo (TRIX Social + Plataforma de Criadoras com Paywall)
+
+### Visão do Produto (o que existirá ao final)
+Ao final do projeto, o TRIX será uma plataforma social “estilo Instagram” com um módulo adicional de **monetização por acesso**, permitindo que perfis e mídias privadas sejam liberados automaticamente **somente após pagamento confirmado**.
+
+**Estado final (entregáveis principais):**
+- Rede social completa (feed, explore, likes, comentários, DMs, notificações)
+- Perfis públicos (vitrine) + perfis privados (paywall)
+- Pagamentos Pix via gateway (com webhooks)
+- “Entitlements” (permissões) no banco: quem pagou vê, quem não pagou não vê
+- Acesso ao conteúdo privado disponível no **web mobile** (mobile-first) e desktop
+- Área Admin (moderação, auditoria, relatórios)
+- Relatórios financeiros e operacionais por período
+- Hardening de produção: segurança, observabilidade, performance, CI/CD
+
+---
+
+## Fase 0 — Base e Governança (OK / Ajustes finais)
+- Padronização de arquitetura (Application Factory, Blueprints, services/helpers)
+- `README.md` e `claude.md` com regras do projeto e convenções
+- Definição de papéis (User, Creator, Admin) e permissões
+- Logs e trilha de auditoria mínima (ações sensíveis)
+
+---
+
+## Fase 1 — Core Social (OK)
+- Feed baseado em following
+- Follow/unfollow + follow requests (contas privadas)
+- Likes e comentários via AJAX
+- Explore + filtros de privacidade
+- Perfil com grid e modal de post
+
+---
+
+## Fase 2 — Comunicação e Privacidade (OK)
+- DMs 1:1 (inbox + chat)
+- Notificações (likes, follows, requests, accepts)
+- Controle de acesso completo para contas privadas em todas as interações
+
+---
+
+## Fase 3 — Monetização por Acesso (Paywall) (NOVA — Prioritária)
+### 3.1 — Modelo de Negócio e Regras de Acesso
+- Definir **tipos de produto**:
+  - Acesso ao perfil privado (ex.: por 7/30 dias) OU
+  - Assinatura recorrente (mensal) OU
+  - Compra avulsa de mídia (item a item)
+- Criar conceito de **Entitlement** (permissão):
+  - `user_id` (comprador)
+  - `creator_id` (perfil liberado)
+  - `status` (active/expired/refunded)
+  - `starts_at`, `ends_at`
+  - `source` (pix/recurring/one_time)
+- Regra central:
+  - Conteúdo privado só é entregue se `entitlement.status=active` e dentro da janela.
+
+### 3.2 — Integração Pix via Gateway (Webhooks)
+- Criar camada de pagamentos:
+  - Ordem de pagamento (invoice/charge)
+  - Status (pending/paid/failed/refunded)
+- Endpoint de webhook:
+  - Validar assinatura do webhook (segurança)
+  - Atualizar status da transação
+  - Ao confirmar `paid`, criar/ativar **entitlement**
+- Idempotência:
+  - Evitar duplicidade (webhook pode repetir)
+
+### 3.3 — Bloqueio e Liberação Automática do Perfil
+- Implementar “gates” (travas) em:
+  - Página de perfil privado (bio completa, grid privado)
+  - Fotos/mídias marcadas como privadas
+  - Endpoints AJAX (like/comment/save) em conteúdo privado
+- Comportamento UX:
+  - Usuário sem acesso vê vitrine + CTA “Liberar acesso”
+  - Usuário com acesso vê tudo normalmente (inclusive no web mobile)
+
+### 3.4 — Área da Criadora (Gestão Comercial)
+- Definir preço e regras do acesso (ex.: 7 dias, 30 dias, recorrência)
+- Ver lista de assinantes/compradores (com filtros)
+- Ver ganhos (relatório resumido)
+- Conteúdo: marcar posts como públicos/privados
+
+---
+
+## Fase 4 — Administração e Auditoria (NOVA)
+- Painel Admin:
+  - Gestão de contas e status
+  - Moderação de conteúdo (remoção/bloqueio)
+  - Auditoria: ações sensíveis (pagamentos, liberações, bans)
+- Relatórios:
+  - Por criadora (período)
+  - Por transações (pendente/pago/estornado)
+  - Por “entitlements” ativos/expirados
+
+---
+
+## Fase 5 — Performance e Escalabilidade
+- Cache (páginas mais acessadas e endpoints de feed/explore)
+- Jobs em background:
+  - expirar entitlements
+  - processar mídia (compressão/formatos)
+  - tarefas de notificação
+- Otimizações SQL (índices, paginação eficiente, queries do feed)
+
+---
+
+## Fase 6 — Produção (Docker, CI/CD, Segurança)
+- Docker + docker-compose (web + db + worker)
+- CI/CD (testes + lint + deploy)
+- Observabilidade:
+  - logs estruturados
+  - métricas básicas
+  - alertas de falha de webhook
+- Segurança:
+  - rate limiting em endpoints sensíveis
+  - proteção CSRF e hardening de sessões
+  - validação rigorosa de upload
+
+---
+
+## Fase 7 — Experiência “Web Mobile” (refino final)
+- Refinar Mobile First:
+  - navegação inferior consistente
+  - paywall com UX claro (CTA, estado do pagamento)
+  - telas de acesso e histórico do usuário
+- Testes finais em:
+  - Android Chrome
+  - iOS Safari
+  - Desktop
+
+---
