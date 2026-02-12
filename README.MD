@@ -1,4 +1,4 @@
-# Olá, eu sou o Toninho Travis 👋
+# Olá, eu sou o Toninho Travis
 
 <div align="center">
   <em>Contador • Especialista em Desenvolvimento de Sistemas com Python • Especialista em Terceirização de Mão de Obra</em><br/>
@@ -9,13 +9,7 @@
 
 ## 🤖 Nota de Transparência
 
-Este README foi escrito com o apoio de uma Inteligência Artificial, mais especificanente a partir de ideias, experiências reais e direcionamento humano. Não vou ficar mentindo. 
-
-Não sou um “dev".  
-Sou um **entusiasta de tecnologia** que "aprendeu" a programar movido por problemas reais, curiosidade e vontade de construir soluções práticas.
-
-Uso IA como ferramenta de aceleração intelectual — assim como uso Python para automatizar processos e planilhas para organizar dados. Tenho muito a aprender. 
-A autoria conceitual é minha. A lapidação textual é assistida.
+Uso IA como ferramenta de aceleração intelectual, quem não fizer isso, perderá grandes oportunidades — assim como uso Python para automatizar processos e planilhas para organizar dados. Tenho muito a aprender. 
 
 Acredito que o futuro pertence a Deus e a quem **sabe pensar sistemas, formular problemas e usar ferramentas inteligentes para resolvê-los**.
 
@@ -25,7 +19,7 @@ Acredito que o futuro pertence a Deus e a quem **sabe pensar sistemas, formular 
 
 Sou BRASILIENSE da gema. Fiz contabilidade por 8 anos. Demorei e demais pra finalizar. Hoje atuo há mais de **8 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
 
-Minha entrada na programação não veio por hobby — Apesar de eu ter sido empresário da área, onde atuei em suporte, redes. Conhecimento a adquirido nessa ocasião. veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
+Minha entrada na programação não veio por hobby — Apesar de eu ter sido empresário da área de TI, onde atuei em suporte e redes. Conhecimento adquirido nessa ocasião. veio por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo para resolver meus problemas como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
 
 - Regras de negócio da administração pública  
 - Automação de processos  
@@ -49,6 +43,8 @@ Também sou entusiasta de **Bitcoin**, autocustódia e soberania digital.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### Infra & Integrações
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
