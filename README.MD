@@ -76,16 +76,14 @@ Plataforma SaaS voltada a entidades públicas para controle completo do ciclo de
 
 ---
 
-### 🧾 Sistema de Apuração de Ponto (Flask)
-Sistema web desenvolvido do zero para controle de jornada:
+### 🧾 Side Acompanhantes (Flask)
+É https://onlytrix.com uma plataforma +18 de anúncios de acompanhantes de Brasília:
 
-- Login por usuário  
-- Registro de entradas/saídas  
-- Regras de horário flexível  
-- Geração automática de folha de ponto  
-- Relatórios de justificativa  
+Ela permite que as anunciantes moderem seu próprio conteúdo, postando fotos, vídeos e até vendendo seu material. 
 
-Este projeto é base do meu **TCC de Pós-Graduação**.
+É uma mistura de site de acomapanhantes como Fatal Model e rede social estilo Instagram:
+
+Este projeto é está em desenvolvimento, os dados são de usuários ainda são fakes.
 
 ---
 
