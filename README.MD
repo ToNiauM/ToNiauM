@@ -68,7 +68,7 @@ Plataforma SaaS voltada a entidades públicas para controle completo do ciclo de
 
 ---
 
-### 🧾 Side Acompanhantes (Flask)
+### 🧾 Site de Acompanhantes (Flask)
 É https://onlytrix.com uma plataforma +18 de anúncios de acompanhantes de Brasília:
 
 Ela permite que as anunciantes moderem seu próprio conteúdo, postando fotos, vídeos e até vendendo seu material. 
