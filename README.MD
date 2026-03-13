@@ -1,124 +1,109 @@
-# Olá, eu sou o Toninho Travis
-
 <div align="center">
-  <em>Contador • Especialista em Desenvolvimento de Sistemas com Python • Especialista em Terceirização de Mão de Obra</em><br/>
-  <strong>Entusiasta de Inteligência Artificial e tecnologia.</strong>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a6b3c&height=200&section=header&text=Toninho%20Travis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Contador%20•%20Dev%20Python%20•%20Data%20Science&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+
 </div>
 
----
+## Sobre Mim
 
-## 👨‍💻 Sobre Mim
+Brasiliense da gema. **8+ anos** em contabilidade pública, gestão patrimonial e terceirização de mão de obra.  
+Atualmente sou **Supervisor do Setor de Patrimônio (SEPAT)** no **Conselho Federal de Contabilidade (CFC)**.
 
-Sou BRASILIENSE da gema. Fiz contabilidade por 8 anos. Demorei e demais pra finalizar. Hoje atuo há mais de **8 anos** com contabilidade pública, **gestão patrimonial** e **terceirização de mão de obra**. Atualmente, sou Supervisor do Setor de Patrimônio (SEPAT) no **Conselho Federal de Contabilidade (CFC)**, onde lido diariamente com inventários, conformidade legal, auditorias e processos administrativos.
+Comecei a programar por **necessidade real** — automatizar tarefas repetitivas, eliminar erros e dar velocidade a processos que antes eram manuais. Hoje sou **especialista em desenvolvimento de sistemas com Python**, construindo soluções SaaS completas com Flask.
 
-Minha entrada na programação não veio por hobby — Apesar de eu ter sido empresário da área de TI, onde atuei em suporte e redes. Conhecimento adquirido nessa ocasião - mas por **necessidade real**. Comecei a programar para automatizar tarefas repetitivas, reduzir erros humanos e dar eficiência a processos que antes eram manuais e lentos. Hoje, atuo para resolver meus problemas como **especialista em desenvolvimento de sistemas com Python**, criando soluções completas (SaaS) com **Flask** que unem:
+Pós-graduando em **Data Science (USP/ESALQ)** e entusiasta de **Bitcoin** e soberania digital.
 
-- Regras de negócio da administração pública  
-- Automação de processos  
-- Interfaces simples e objetivas  
-- Persistência de dados confiável  
-- Escalabilidade real  
-
-Sou pós-graduando em **Data Science (USP/ESALQ)** e estudo aplicações práticas de dados em contextos financeiros, patrimoniais e administrativos.
-
-Também sou entusiasta de **Bitcoin**, autocustódia e soberania digital.
-
-> Minha missão pessoal é simples:  
-> **transformar burocracia em fluxo, papel em código e caos em sistema.**
+> *"Transformar burocracia em fluxo, papel em código e caos em sistema."*
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## ⚡ O que eu faço
 
-### Backend & Web
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+```text
+🏛️  Gestão Patrimonial      →  Inventários, conformidade, auditorias
+🐍  Sistemas com Python      →  SaaS completos com Flask + MySQL
+📊  Data Science             →  Dados administrativos e financeiros
+🔧  Automação                →  ETL pipelines, dashboards, relatórios
+🖥️  Infraestrutura           →  VPS Linux, Docker, PostgreSQL, Grafana
+```
 
+---
 
-### Infra & Integrações
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+## 🛠️ Tech Stack
 
-### Dados
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<div align="center">
+
+**Backend & Web**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square)
+
+**Dados & Banco**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Infra & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### 🏢 SGA — Sistema de Gestão Patrimonial
-Plataforma SaaS voltada a entidades públicas para controle completo do ciclo de vida dos bens:
 
-- Aquisição  
-- Registro  
-- Termo de Responsabilidade  
-- Movimentação  
-- Inventário  
-- Desfazimento  
+Plataforma SaaS para entidades públicas com controle completo do ciclo de vida dos bens: aquisição, registro, termo de responsabilidade, movimentação, inventário e desfazimento.
 
-**Stack:** Flask, MySQL, SQLAlchemy, Google Sheets API  
-**Objetivo:** Levar eficiência real à gestão pública por meio de automação.
+> A materialização digital do Manual de Gestão Patrimonial.
 
-> É, na prática, a materialização digital do Manual de Gestão Patrimonial.
+`Flask` `MySQL` `SQLAlchemy` `Google Sheets API`
 
 ---
 
-### 🧾 Site de Acompanhantes (Flask)
-É https://onlytrix.com uma plataforma +18 de anúncios de acompanhantes de Brasília:
+### 📊 TCC em Data Science — USP/ESALQ
 
-Ela permite que as anunciantes moderem seu próprio conteúdo, postando fotos, vídeos e até vendendo seu material. 
+**Tema:** Aplicação de Ciência de Dados em Processos Administrativos e Gestão Patrimonial
 
-É uma mistura de site de acomapanhantes como Fatal Model e rede social estilo Instagram:
-
-Este projeto é está em desenvolvimento, os dados são de usuários ainda são fakes.
-
----
-
-### 📊 TCC em Data Science – USP/ESALQ
-Tema em desenvolvimento voltado a:
-
-> Aplicação de Ciência de Dados em Processos Administrativos e Gestão Patrimonial
-
-Foco em:
-- Estruturação de dados administrativos  
-- Automação inteligente  
-- Tomada de decisão baseada em dados  
-- Eficiência operacional no setor público  
+Foco em estruturação de dados administrativos, automação inteligente e tomada de decisão baseada em dados no setor público.
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToNiauM&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToNiauM&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ToNiauM&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6b3c&icon_color=1a6b3c&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToNiauM&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a6b3c&text_color=c9d1d9" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToNiauM&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a6b3c&fire=1a6b3c&currStreakLabel=1a6b3c" height="160" />
 </div>
 
 ---
 
-## 📫 Vamos conectar?
+## 📫 Contato
 
-Se você gosta de conversar sobre:
-
-- Python aplicado a problemas reais  
-- SaaS sob medida  
-- Automação administrativa  
-- Gestão patrimonial  
-- Terceirização de mão de obra  
-- Data Science aplicada  
-- Bitcoin e soberania digital  
-
-Fale comigo:
+<div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561982098525)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toniaum@gmail.com)
+
+</div>
 
 ---
 
-> *“Programação é resolver problemas do mundo real.”*
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a6b3c&height=100&section=footer" width="100%" />
+
+</div>
