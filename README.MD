@@ -1,120 +1,31 @@
-<div align="center">
+<h1 align="center">Toninho Travis</h1>
+<h3 align="center">Contador · Entusiasta de Tecnologia</h3>
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█  ████████╗ ██████╗ ███╗  ██╗██╗███╗  ██╗██╗  ██╗  █
-█     ██╔══╝██╔═══██╗████╗ ██║██║████╗ ██║██║  ██║  █
-█     ██║   ██║   ██║██╔██╗██║██║██╔██╗██║███████║  █
-█     ██║   ██║   ██║██║╚████║██║██║╚████║██╔══██║  █
-█     ██║   ╚██████╔╝██║ ╚███║██║██║ ╚███║██║  ██║  █
-█     ╚═╝    ╚═════╝ ╚═╝  ╚══╝╚═╝╚═╝  ╚══╝╚═╝  ╚═╝  █
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<br/>
 
-`[ BRASÍLIA · DF ]` `[ SETOR PÚBLICO ]` `[ PYTHON · DATA · INFRA ]`
-
-</div>
+**Supervisor do Setor de Patrimônio — Conselho Federal de Contabilidade (CFC)**  
+**Pós-graduando — MBA em Data Science e Analytics · USP/ESALQ**
 
 ---
 
-<div align="center">
+### Stack
 
-```
-> Sistema iniciado.
-> Carregando perfil: ToNiauM
-> Status: ONLINE
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</div>
-
----
-
-### ⬛ `./whoami`
-
-```
-Supervisor · Patrimônio · Conselho Federal de Contabilidade (CFC)
-Pós-graduando em Data Science · USP/ESALQ
-Desenvolvo sistemas porque a burocracia não se resolve sozinha.
-```
-
-> *Transformo planilha em pipeline, processo em sistema, dado em decisão.*
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
-### ⬛ `./stack --list`
+### Contato
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-0a0f0a?style=for-the-badge&logo=python&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/-Bash-0a0f0a?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![SQL](https://img.shields.io/badge/-SQL-0a0f0a?style=for-the-badge&logo=postgresql&logoColor=00ff41)
-
-![Flask](https://img.shields.io/badge/-Flask-0a0f0a?style=for-the-badge&logo=flask&logoColor=00cc33)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-0a0f0a?style=for-the-badge&logo=python&logoColor=00cc33)
-![Pandas](https://img.shields.io/badge/-Pandas-0a0f0a?style=for-the-badge&logo=pandas&logoColor=00cc33)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0f0a?style=for-the-badge&logo=postgresql&logoColor=008f11)
-![MySQL](https://img.shields.io/badge/-MySQL-0a0f0a?style=for-the-badge&logo=mysql&logoColor=008f11)
-![Docker](https://img.shields.io/badge/-Docker-0a0f0a?style=for-the-badge&logo=docker&logoColor=008f11)
-![Linux](https://img.shields.io/badge/-Linux-0a0f0a?style=for-the-badge&logo=linux&logoColor=008f11)
-![Grafana](https://img.shields.io/badge/-Grafana-0a0f0a?style=for-the-badge&logo=grafana&logoColor=008f11)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0f0a?style=for-the-badge&logo=cloudflare&logoColor=008f11)
-
-</div>
-
----
-
-### ⬛ `./projects --active`
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│  SGA · Sistema de Gestão Patrimonial                        │
-│  ──────────────────────────────────────────────────────    │
-│  SaaS para controle completo do ciclo de vida de bens       │
-│  públicos: aquisição, inventário, termos, desfazimento.     │
-│                                                             │
-│  $ Flask · MySQL · SQLAlchemy · Google Sheets API           │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  DASHBOARD · Infraestrutura de dados self-hosted            │
-│  ──────────────────────────────────────────────────────    │
-│  ETL pipeline sobre dados administrativos reais.            │
-│  PostgreSQL + Grafana rodando em VPS própria.               │
-│                                                             │
-│  $ Docker · PostgreSQL · Grafana · Python                   │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  TCC · Data Science aplicada ao setor público               │
-│  ──────────────────────────────────────────────────────    │
-│  Análise e automação sobre dados administrativos reais.     │
-│  USP/ESALQ · Em andamento.                                  │
-│                                                             │
-│  $ Python · Pandas · Matplotlib · SQL                       │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-### ⬛ `./stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToNiauM&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0a&title_color=00ff41&icon_color=00cc33&text_color=00cc33&hide=stars,issues)
-
-</div>
-
----
-
-<div align="center">
-
-```
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█  > build to learn  |  self-hosted  |  public sector  █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
-</div>
+[![WhatsApp](https://img.shields.io/badge/(61)%2098209--8525-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5561982098525)
+[![Gmail](https://img.shields.io/badge/toniaum@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:toniaum@gmail.com)
