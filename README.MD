@@ -1,5 +1,5 @@
 <h1 align="center">Toninho Travis</h1>
-<h3 align="center">Contador · Entusiasta de Tecnologia</h3>
+<h3 align="center">Contador · Entusiasta de Inovação e Tecnologia</h3>
 
 <br/>
 
