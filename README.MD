@@ -3,8 +3,12 @@
 
 <br/>
 
-**Supervisor do Setor de Patrimônio — Conselho Federal de Contabilidade (CFC)**
+**Contador**
+
+**Supervisor do Setor de Patrimônio - Conselho Federal de Contabilidade (CFC)**
+
 **Especialista em Desenvolvimento de Sistemas com Python - Unicesumar**
+
 **Pós-graduando — MBA em Data Science e Analytics · USP/ESALQ**
 
 ---
