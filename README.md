@@ -1,4 +1,4 @@
-# Antônio Rodrigues de Sousa Júnior
+# Antônio Rodrigues
 
 **Brasília — DF, Brasil** · [`@ToNiauM`](https://github.com/ToNiauM)
 
