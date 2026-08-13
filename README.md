@@ -103,8 +103,8 @@ Esse modelo permite separar aplicação, persistência, cache e exposição HTTP
 |---|---|---|
 | **MBA em Data Science & Analytics** | USP/ESALQ | Fase final — TCC |
 | **Especialização em Desenvolvimento de Sistemas com Python** | Unicesumar | Concluída |
-| **Especialização em Terceirização de Mão de Obra** | Unileya | Concluída |
-| **Bacharelado em Ciências Contábeis** | — | Concluído |
+| **Especialização em Terceirização de Mão de Obra** | Unyleya | Concluída |
+| **Bacharelado em Ciências Contábeis** | UDF/Unicesumar | Concluído |
 
 **Formação complementar:** Liderança — Dale Carnegie · cursos técnicos e de desenvolvimento profissional pela Alura.
 
