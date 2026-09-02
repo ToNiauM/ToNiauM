@@ -180,6 +180,7 @@ Não busco apenas operar tecnologia, mas compreender o ambiente o suficiente par
 
 - E-mail: [toniaum@gmail.com](mailto:toniaum@gmail.com)
 - GitHub: [github.com/ToNiauM](https://github.com/ToNiauM)
+- GitLab: [gitlab.com/toniaum](https://gitlab.com/toniaum)
 - Portfólio: [analisedados.online](https://analisedados.online)
 
 ---
