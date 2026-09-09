@@ -116,6 +116,7 @@ Meu roadmap foi estruturado para consolidar quatro pilares: **Linux, redes, clou
 
 | Certificação | Área | Status |
 |---|---|---|
+| **GitHub Foundations - GH 900 | DevOps / Engenharia de Software | Exame marcado |
 | **LFCS — Linux Foundation Certified System Administrator** | Linux / infraestrutura | Em preparação |
 | **CCNA — Cisco Certified Network Associate** | Redes | Planejada |
 | **AWS Solutions Architect — Associate** | Cloud | Planejada |
