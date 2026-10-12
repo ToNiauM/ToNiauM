@@ -19,7 +19,6 @@ da administração pública: sistemas web, extensões, painéis e relatórios.
 | **[Sistema PCA](https://github.com/ToNiauM/sistema-pca)** | Acompanhamento do Plano de Contratações Anual (Django, PostgreSQL, DSGov) |
 | **[Sistema Patrimônio](https://github.com/ToNiauM/sistema-patrimonio)** | Inventário patrimonial e termos de responsabilidade, produto do TCC (MBA USP/Esalq) |
 | **[Quiz](https://github.com/ToNiauM/quiz)** | Quiz ao vivo em tempo real (FastAPI, WebSockets) |
-| **[AnaliseDados](https://analisedados.online)** | Painéis e análise de dados (Grafana, Flask, PostgreSQL) |
 
 [Todos os repositórios →](https://github.com/ToNiauM?tab=repositories)
 
