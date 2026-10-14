@@ -9,7 +9,7 @@ Brasília — DF · empregado do Conselho Federal de Contabilidade (CFC) desde 2
 Trabalho com contratações públicas e uso Python e dados para automatizar o que dá no dia a dia
 da administração pública: sistemas web, extensões, painéis e relatórios.
 
-**Uso no dia a dia:** Python · Django · Flask · FastAPI · PostgreSQL · Pandas · Docker · Linux · Git
+**Uso no dia a dia:** Python · Django · Flask · PostgreSQL · SQLite · Pandas · Docker · Linux · Git
 
 ## Projetos
 
