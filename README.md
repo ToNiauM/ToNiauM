@@ -23,6 +23,12 @@ Brasília — DF · empregado do Conselho Federal de Contabilidade (CFC) desde 2
 - Especialização em Terceirização de Mão de Obra — Unyleya
 - Bacharelado em Ciências Contábeis — UDF/Unicesumar
 
+## Credenciais e Certificações
+
+[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-Certificado-181717?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/pt-br/AntniorodriguesdeSousaJnior-9844/4B218ECE14A1B859?sharingId)
+
+- **GitHub Foundations (GH-900)** — GitHub / Microsoft, 2026 · [verificar credencial](https://learn.microsoft.com/api/credentials/share/pt-br/AntniorodriguesdeSousaJnior-9844/4B218ECE14A1B859?sharingId)
+
 ## Contato
 
 [toniaum@gmail.com](mailto:toniaum@gmail.com) · [GitLab](https://gitlab.com/toniaum) · [analisedados.online](https://analisedados.online)
